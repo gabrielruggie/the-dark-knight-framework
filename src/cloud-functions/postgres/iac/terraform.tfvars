@@ -1,0 +1,6 @@
+project_id               = "ymbl-development-gcp"
+postgres_service_account = "dk-postgres@ymbl-development-gcp.iam.gserviceaccount.com"
+postgres_db_username     = "dk-admin-gruggie"
+postgres_db_password     = "TheDarkKnight33"
+postgres_db_name         = "dk-dev-database-1"
+postgres_db_uxpath       = "/cloudsql/ymbl-development-gcp:us-central1:dark-knight-db-server"

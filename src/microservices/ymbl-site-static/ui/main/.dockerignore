@@ -1,0 +1,5 @@
+# Avoid building with host modules
+/node_modules
+
+# Remove unused pages
+/src/routes/Register.jsx

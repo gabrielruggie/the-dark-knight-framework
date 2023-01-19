@@ -1,0 +1,40 @@
+# For clean up before github repo opens
+
+# On Wednesday:
+#   - Clean up codebase
+#   - Download Zip
+#   - Make new local directory and setup git
+#   - Connect to new github repo
+
+# Byte-compiled
+__pycache__/
+.pytest_cache
+
+# Environments
+.venv
+api-venv/
+api-venv.bak/
+testing-venv/
+testing-venv.bak/
+
+# VSCode
+.vscode/
+
+# .gitlab
+.DS_Store
+
+# Terraform
+.terraform/
+.terraform.lock.hcl
+
+# React
+/node_modules
+
+# Dev Notes
+dev-notes.txt
+
+# Gitlab
+.gitlab-ci.yml
+
+# GCP Service Keys
+gruggie-service-key.json
