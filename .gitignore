@@ -1,0 +1,30 @@
+# Byte-compiled
+__pycache__/
+.pytest_cache
+
+# Environments
+.venv
+api-venv/
+api-venv.bak/
+testing-venv/
+testing-venv.bak/
+
+# VSCode
+.vscode/
+
+# Finder
+.DS_Store
+
+# Terraform
+.terraform/
+.terraform.lock.hcl
+
+# React
+/node_modules
+
+# Dev Notes
+dev-notes.txt
+
+# Gitlab
+.gitlab-ci.yml
+
